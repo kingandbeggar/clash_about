@@ -5,7 +5,11 @@ DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,yunpan1.cc
-DOMAIN-SUFFIX,googleadservices.com
+
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,zh.1lib.sk
 DOMAIN-SUFFIX,zh.annas-archive.org
+DOMAIN-SUFFIX,googleads.g.doubleclick.net,
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,ad.doubleclick.net
